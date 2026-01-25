@@ -48,3 +48,4 @@ function getRandomGreeting() {
 
 module.exports = { getPrompt, getBanner, getPS1, getRandomGreeting };
 
+
